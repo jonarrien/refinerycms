@@ -30,7 +30,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'will_paginate',               '~> 3.1', '>= 3.1.0'
   s.add_dependency 'sass-rails',                  '>= 4.0', '< 7'
   s.add_dependency 'font-awesome-sass',           '>= 4.3.0', '< 5.0'
-  s.add_dependency 'coffee-rails',                ['~> 4.0', '>= 4.0.0']
+  s.add_dependency 'coffee-rails',                ['~> 5.0', '>= 5.0.0']
   s.add_dependency 'jquery-rails',                '~> 4.3', '>= 4.3.1'
   s.add_dependency 'jquery-ui-rails',             '~> 6.0', '>= 6.0.0'
   s.add_dependency 'decorators',                  '~> 2.0', '>= 2.0.0'
